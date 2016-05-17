@@ -5,3 +5,5 @@ x;
 var whereAmI = "Viaduct, Auckland";
 
 whereAmI;
+
+var test;
